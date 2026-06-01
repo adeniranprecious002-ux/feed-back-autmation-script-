@@ -58,7 +58,6 @@ cd feed-back-automation
 ```text id="x9q2mp"
 .
 ├── script.py        # Main automation script
-├── reviews/         # Directory containing raw text feedback files
 └── README.md
 ```
 
